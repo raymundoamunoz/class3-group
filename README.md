@@ -1,7 +1,7 @@
 ![Robinhood](https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/610572/robinhood.png&w=2000&op=resize)
 
-##Fintech Case analysis
-###Overview and Origin
+## Fintech Case analysis
+### Overview and Origin
 
     Name of company: Robinhood
     When was the company incorporated? The company was incorporated on April 18, 2013.
