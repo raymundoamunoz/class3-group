@@ -1,3 +1,5 @@
+![Robinhood](https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/610572/robinhood.png&w=2000&op=resize)
+
 ##Fintech Case analysis
 ###Overview and Origin
 
