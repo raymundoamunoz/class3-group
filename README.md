@@ -1,4 +1,3 @@
-# class3-group
 UnitOneAssignment_FaustoNIcieza
 Fintech Case analysis
 Overview and Origin
